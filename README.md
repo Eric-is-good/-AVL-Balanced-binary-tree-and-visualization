@@ -1,4 +1,4 @@
-#AVL-Balanced-binary-tree-and-visualization
+# AVL-Balanced-binary-tree-and-visualization
  <br> <br>
 (AVL)Balanced binary tree and visualization of it  <br>
 you can use the function **show_structure()** to show the visualization of AVL  <br>
